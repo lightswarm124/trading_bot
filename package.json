@@ -1,0 +1,15 @@
+{
+  "name": "trading_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "binance-api-node": "^0.9.12",
+    "ccxt": "^1.21.75",
+    "coinex.com": "^1.0.4",
+    "dotenv": "^8.2.0"
+  }
+}
